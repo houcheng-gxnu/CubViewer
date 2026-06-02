@@ -30,7 +30,7 @@ Pre-built executables (no Python required):
 | Chinese | `CubeViewer_zh.exe` |
 | English | `CubeViewer.exe` |
 
-📁 **[Browse all downloads →](https://cnb.cool/chem311/CubViewer/-/tree/main/dist)**
+📥 **Download: [CubeViewer V1.0 →](https://cnb.cool/chem311/CubViewer/-/releases/tag/V1.0)**
 
 ## Dependencies
 
