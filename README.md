@@ -9,7 +9,7 @@
 - **Open `.cub` files directly** — skip the fchk → cube step
 - **VMD live preview** with real-time isovalue & opacity sliders
 - **Tachyon ray-tracing** export to high-res BMP/PNG
-- **11 built-in rendering styles** from vcube2.0 (Zhong Cheng)
+- **33 built-in rendering styles** — vcube2.0 classics, IboView-inspired, curated palettes (Morandi, Aurora, Cyberpunk, Ink Wash & more)
 - **Hide hydrogen atoms** for clean heavy-atom views
 - **Dashed bond drawing** for annotating interactions
 - **Bilingual UI** (Chinese / English)
