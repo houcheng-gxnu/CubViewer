@@ -1,5 +1,6 @@
 # CubeViewer
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20790885.svg)](https://doi.org/10.5281/zenodo.20790885)
 [![License](https://img.shields.io/badge/License-Academic-blue?style=flat)](#license)
 
 **CubeViewer** — a lightweight PyQt5 GUI for viewing `.cub` files directly in VMD with Tachyon ray-tracing export. No Multiwfn required.
