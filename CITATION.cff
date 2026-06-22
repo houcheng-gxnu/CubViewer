@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use CubeViewer in your research, please cite it as below."
+title: "CubeViewer: A lightweight PyQt5 GUI for viewing .cub files in VMD with Tachyon ray-tracing export"
+authors:
+  - family-names: Hou
+    given-names: Cheng
+    affiliation: "Guangxi Normal University, College of Chemistry and Pharmaceutical Sciences"
+type: software
+version: 1.0.0
+date-released: 2026-06-03
+repository-code: "https://github.com/houcheng-gxnu/CubViewer"
+keywords:
+  - computational chemistry
+  - molecular visualization
+  - VMD
+  - Tachyon
+  - cube file
+  - PyQt5
+license: Academic
